@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Brian Abel Timothy</h1>
 <h3 align="center">A Computer Science student sepcialized in Game Development with passion in Software Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brianabeltimothy&label=Profile%20views&color=0e75b6&style=flat" alt="brianabeltimothy" /> </p>
-
 I am a fifth-semester university student at the University of Information Technology and Management, starting to look for roles in the IT industry.
 
 As a Computer Science student, I am curious about how software and data are able to improve businesses in every industry. How far software technology can be developed? 
