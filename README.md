@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brian Abel Timothy</h1>
-<h3 align="center">A passionate software engineer</h3>
+<h3 align="center">A Computer Science student sepcialized in Game Development with passion in Software Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brianabeltimothy&label=Profile%20views&color=0e75b6&style=flat" alt="brianabeltimothy" /> </p>
 
