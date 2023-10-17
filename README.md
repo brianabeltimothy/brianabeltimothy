@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Brian Abel Timothy</h1>
 <h3 align="center">A Computer Science student sepcialized in Game Development with passion in Software Development</h3>
 
-I am a fifth-semester university student at the University of Information Technology and Management, starting to look for roles in the IT industry.
-
+I am a last-year university student at the University of Information Technology and Management, Rzeszów, Poland.
 As a Computer Science student, I am curious about how software and data are able to improve businesses in every industry. How far software technology can be developed? 
-
-As such, I am learning C# programming language with ASP.NET framework to create web API, web technologies using Angular framework and SQL to become more valuable.
-
-You can reach me at brianabeltim@gmail.com.
+As such, I am learning C# programming language with ASP.NET framework to create web API, web technologies using Angular framework and SQL, and Unity game engine to become more valuable.
 
 - 🌱 I’m currently learning **Angular framework and web API in C# using ASP.NET**
 
