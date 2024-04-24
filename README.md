@@ -2,10 +2,10 @@
 <h3 align="center">A Computer Science student sepcialized in Game Development with passion in Software Development</h3>
 
 I am a last-year university student at the University of Information Technology and Management, Rzeszów, Poland.
-As a Computer Science student, I am curious about how software and data are able to improve businesses in every industry. How far software technology can be developed? 
-As such, I am learning C# programming language with ASP.NET framework to create web API, web technologies using Angular framework and SQL, and Unity game engine to become more valuable.
+As an Information Technology student, I am curious about how software and data are able to improve businesses in every industry. How far software technology can be developed? 
+As such, I am learning C# programming language with ASP.NET, SQL, and Unity game engine to become more valuable.
 
-- 🌱 I’m currently learning **Angular framework and web API in C# using ASP.NET**
+- 🌱 I’m currently learning **Unity game engine and web API in C# using ASP.NET**
 
 - 📫 How to reach me **brianabeltim@gmail.com**
 
